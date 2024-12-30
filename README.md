@@ -1,2 +1,2 @@
-# gita2
-a general text search and reference tool, based on gita-api
+# gita_fastapi
+a general text search and reference tool written using FastAPI

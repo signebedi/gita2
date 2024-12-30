@@ -1,0 +1,5 @@
+include requirements/base.txt
+include requirements/latest.txt
+include README.md
+include gita_fastapi/app/static/*
+include gita_fastapi/app/templates/*
