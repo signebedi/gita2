@@ -77,7 +77,7 @@ setup(
     python_requires='>=3.10',
     entry_points={
         'console_scripts': [
-            'gitactl=gita_fastapi.cli.__init__:cli',
+            'gitactl=gita_fastapi.cli.__main__:cli',
         ],
     },
     # 
