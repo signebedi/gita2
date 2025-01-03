@@ -1,0 +1,16 @@
+chromadb
+cryptography
+email_validator
+fastapi
+html-sanitizer
+immutables
+Jinja2
+Markdown
+pydantic-settings
+PyJWT
+python-multipart
+requests
+sentence-transformers
+SQLAlchemy
+sqlalchemy-signing
+uvicorn
